@@ -1,0 +1,20 @@
+{
+  "title": "Cấu hình vô lăng FFBeast",
+  "connect": "Kết nối",
+  "disconnect": "Ngắt kết nối",
+  "scan": "Quét thiết bị",
+  "noDevice": "Không tìm thấy thiết bị phù hợp.",
+  "connected": "{{name}} đã kết nối",
+  "version": "Phiên bản: {{version}}",
+  "tabs": {
+    "effects": "Hiệu ứng",
+    "periphery": "Ngoại vi",
+    "controller": "Bộ điều khiển",
+    "license": "Giấy phép"
+  },
+  "buttons": {
+    "save": "Lưu và khởi động lại",
+    "dfu": "Chuyển DFU",
+    "reboot": "Khởi động lại"
+  }
+}
